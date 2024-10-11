@@ -2,7 +2,7 @@
 	"file": "https://github.com/pjcwhite/boat_diagrams/blob/main/PANAMA%20RAW%20BINARY%20ENCODING%20FOR%20SETS.csv",
 	"name": "Test",
 	"header": 0,
-	"separator": ",",
+	"separator": ";",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" }
